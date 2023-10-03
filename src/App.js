@@ -1,9 +1,9 @@
-import Header from "./componentes/Header/Header";
+import { Aside } from "./componentes/Aside/Aside";
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Aside />
     </div>
   );
 }
