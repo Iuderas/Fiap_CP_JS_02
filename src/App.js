@@ -1,11 +1,7 @@
-import { Aside } from "./componentes/Aside/Aside";
+import { Footer } from "./componentes/Footer";
 
 function App() {
-  return (
-    <div className="App">
-      <Aside />
-    </div>
-  );
+  return <Footer />;
 }
 
 export default App;
